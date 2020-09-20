@@ -1503,7 +1503,7 @@ h3 {
 }
 @media screen and (min-width: 1320px) {
   .description::before {
-    margin-left: 45%;
+    margin-left: 47%;
   }
 }
 
@@ -1765,7 +1765,7 @@ h3 {
   .program-list-item h3 {
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 30px;
     line-height: 1.4;
     letter-spacing: 0.08em;
     padding-left: 15px;
