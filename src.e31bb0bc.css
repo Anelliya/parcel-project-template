@@ -1817,6 +1817,9 @@ h3 {
   .program-list-item {
     width: 240px;
   }
+  .program-list-item:not(:last-child) {
+    margin-right: 30px;
+  }
 }
 
 h4 {
