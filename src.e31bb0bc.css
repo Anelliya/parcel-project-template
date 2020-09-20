@@ -353,7 +353,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Montserrat;
+  font-family: "Montserrat", sans-serif;
   color: #b9b9b9;
   font-size: 18px;
   font-weight: 400;
@@ -1587,8 +1587,8 @@ h3 {
     max-width: 1680px;
     margin: auto;
     background-image: url(/main.65f81ae9.png);
-    background-position-x: -28px;
-    background-position-y: 85%;
+    background-position-x: left;
+    background-position-y: 90%;
   }
 }
 @media screen and (min-width: 1320px) {
